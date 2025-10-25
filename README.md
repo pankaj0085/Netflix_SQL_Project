@@ -1,7 +1,8 @@
 # Netflix 🎬 SQL Project
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/96dd5eb7-03e6-412c-896e-991b967bec60" />
 
-<img width="456" height="456" alt="Netflix-Symbol" src="https://github.com/user-attachments/assets/1fa6eedf-6b18-4060-8842-56dbead805f9" />
+
 
 
 ## Project Overview📊 and Analysis 🔍
