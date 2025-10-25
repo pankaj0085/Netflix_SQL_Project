@@ -1,6 +1,7 @@
 # Netflix 🎬 SQL Project
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/96dd5eb7-03e6-412c-896e-991b967bec60" />
+
+<img width="456" height="456" alt="image" src="https://github.com/user-attachments/assets/65a84b1c-8cdd-402c-a74f-fdbd4857f32f" />
 
 
 
@@ -80,6 +81,19 @@ The provided SQL project successfully culminates in a highly effective and techn
 The project’s conclusion rests on two pillars. First, it yields robust, strategic insights by clearly quantifying the essential content mix, identifying top contributing nations (Q4), and measuring recent investment through catalog freshness (Q6). Second, and more importantly, it showcases exceptional technical proficiency. This is evidenced by the masterly use of functions like CAST and SUBSTRING_INDEX to parse textual duration data (Q5, Q8) and the use of subqueries (Q10) to contextualize metrics.
 
 Ultimately, the script demonstrates that the analyst is capable of more than mere data retrieval; they possess the necessary skills to clean, transform, and analyze complex datasets to deliver high-value business conclusions.
+
+# 🌟 About Me
+## 👋 Hi, I'm PANKAJ CHAUHAN
+I'm an aspiring Data Analyst passionate about exploring data and uncovering meaningful insights.
+Currently, I’m building my foundation in SQL, Power BI, Excel, and Python while working on projects that strengthen my analytical and visualization skills.
+- 🌱 Learning data analysis, visualization, and reporting
+- 🧠 Interested in business intelligence and data storytelling
+- 🎯 Goal: To apply analytical skills to real-world business problems
+# 🤝 Connect With Me
+LINKEDIN = https://www.linkedin.com/in/pankaj-chauhan-00108225a/
+E-MAIL = pankajchauhan3470@gmail.com
+<img width="451" height="197" alt="image" src="https://github.com/user-attachments/assets/f457b2d5-f97b-44dd-8a4c-307ee4401284" />
+
 
 
    
