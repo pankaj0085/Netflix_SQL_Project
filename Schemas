@@ -1,0 +1,16 @@
+CREATE TABLE netflix
+(
+    show_id varchar(15) PRIMARY KEY,          
+    type VARCHAR(10),                   
+    title VARCHAR(255),                 
+    director TEXT,                   
+    cast TEXT,                          
+    country TEXT,                       
+    date_added TEXT,                    
+    release_year INTEGER,               
+    rating VARCHAR(10),                 
+    duration VARCHAR(20),               
+    listed_in TEXT,                    
+    description TEXT                   
+);
+select * from netflix;
