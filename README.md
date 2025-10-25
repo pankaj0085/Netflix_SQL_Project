@@ -70,7 +70,7 @@ Q11. List all movies that are documentaries (This is a duplicate of Q2)
 
 Q12. Find how many movies actor 'Salman Khan' appeared in last 10 years.
 
-## Conclusion
+## Conclusion ✅
 The provided SQL project successfully culminates in a highly effective and technically sound data analysis of the Netflix content catalog. The primary takeaway is the successful application of advanced query techniques to transform raw, real-world data into actionable intelligence.
 
 The project’s conclusion rests on two pillars. First, it yields robust, strategic insights by clearly quantifying the essential content mix, identifying top contributing nations (Q4), and measuring recent investment through catalog freshness (Q6). Second, and more importantly, it showcases exceptional technical proficiency. This is evidenced by the masterly use of functions like CAST and SUBSTRING_INDEX to parse textual duration data (Q5, Q8) and the use of subqueries (Q10) to contextualize metrics.
