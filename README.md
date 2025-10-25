@@ -1,6 +1,9 @@
 # Netflix 🎬 SQL Project
 
 
+<img width="456" height="456" alt="Netflix-Symbol" src="https://github.com/user-attachments/assets/1fa6eedf-6b18-4060-8842-56dbead805f9" />
+
+
 ## Project Overview📊 and Analysis 🔍
 The provided SQL script outlines a well-structured and technically proficient data analysis project centered on a Netflix content dataset. The primary objective is to leverage SQL to transform raw metadata into actionable business intelligence, addressing a diverse set of analytical questions that explore the composition, trends, and key metrics of the Netflix catalog.
 The project is grounded by the creation of the netflix_project database and the netflix table, which serves as the single source of truth. The schema design, while incorporating necessary fields like title, country, and duration, highlights a common real-world data challenge: relying on TEXT data types for analytical fields such as date_added and duration. The strength of this project lies in its ability to masterfully overcome these data limitations through advanced querying techniques.
